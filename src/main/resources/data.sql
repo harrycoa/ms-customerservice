@@ -1,8 +1,8 @@
 INSERT INTO CUSTOMER(FIRST_NAME, LAST_NAME, EMAIL)
-VALUES ('Parker', 'Peter', 'peterparker@gmail.com');
+VALUES ('Harry', 'Coa', 'rharryc@gmail.com');
 
 INSERT INTO CREDIT_CARD(NAME_ON_CARD, NUMBER_ON_CARD, CARD_TYPE, EXP_MONTH, EXP_YEAR, CCV)
-VALUES ('Peter Parker', '4565 9018 2124 2422', 'VISA', '07', '2024', '212');
+VALUES ('Harry Coa', '4565 9018 2124 2422', 'VISA', '07', '2024', '212');
 
 INSERT INTO ADDRESS(STREET, CITY, STATE, COUNTRY, ZIP_CODE)
 VALUES ('3142 McDonald Street', 'Brooklyn', 'NY', 'USA', '11201');
